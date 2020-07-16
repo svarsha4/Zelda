@@ -1,0 +1,209 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  world = "My House",
+  floor = 2,
+  tileset = "oceanset_inside",
+  music = "eduardo/lunarius",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 16,
+  width = 224,
+  height = 32,
+  pattern = "35_5",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 48,
+  width = 32,
+  height = 144,
+  pattern = "41_5",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 48,
+  width = 32,
+  height = 144,
+  pattern = "37_6",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 192,
+  width = 224,
+  height = 32,
+  pattern = "39_6",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "34_5",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "36_5",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "40_6",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "38_5",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 48,
+  width = 224,
+  height = 144,
+  pattern = "20_20",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 48,
+  width = 32,
+  height = 48,
+  pattern = "112_4",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 64,
+  width = 16,
+  height = 24,
+  pattern = "73_2",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 64,
+  width = 16,
+  height = 24,
+  pattern = "73_3",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 64,
+  width = 16,
+  height = 24,
+  pattern = "73",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 64,
+  width = 24,
+  height = 24,
+  pattern = "64_2",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 128,
+  width = 48,
+  height = 16,
+  pattern = "68",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 160,
+  y = 181,
+  direction = 1,
+}
+
+door{
+  layer = 0,
+  x = 48,
+  y = 176,
+  direction = 3,
+  sprite = "",
+}
+
+tile{
+  layer = 1,
+  x = 232,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "74_2",
+}
+
+tile{
+  layer = 1,
+  x = 248,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "74_3",
+}
+
+tile{
+  layer = 1,
+  x = 216,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 1,
+  x = 72,
+  y = 48,
+  width = 24,
+  height = 16,
+  pattern = "65_2",
+}
+
+tile{
+  layer = 1,
+  x = 48,
+  y = 120,
+  width = 48,
+  height = 8,
+  pattern = "69",
+}
+
